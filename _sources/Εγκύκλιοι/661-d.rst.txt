@@ -1,0 +1,19 @@
+.. toctree::
+   :titlesonly:
+
+.. rst-class:: right
+  
+  |location_link|
+
+.. |location_link| raw:: html
+
+  <a href="https://ras-el.gr/wp-content/uploads/2020/09/8-det_tk_661_diagramma.pdf" target="_blank"> 🔗 Σύνδεσμος στο έγγραφο</a>
+
+Διάγραμμα Τ-Κ_661
+##################
+
+
+
+    .. figure:: images/661-diagramma.png
+        :scale: 80 %
+        :class: center 

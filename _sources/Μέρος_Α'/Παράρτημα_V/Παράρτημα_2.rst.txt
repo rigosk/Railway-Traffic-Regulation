@@ -1,0 +1,102 @@
+ΠΑΡΑΡΤΗΜΑ 2 ( ΠΑΡΑΡΤΗΜΑΤΟΣ V)
+##############################
+
+Σχηματική Παράσταση Αυτομάτων Συστημάτων Εξασφαλίσεως Ισοπέδων Διαβάσεων
+************************************************************************
+
+ΤΥΠΟΣ 101
+==========
+
+.. figure:: ../images/101_asid.png
+      	   :scale: 70 %
+      	   :class: center
+
+ΤΥΠΟΣ 101A
+===========
+
+.. figure:: ../images/101A_asid.png
+      	   :scale: 70 %
+      	   :class: center
+
+ΤΥΠΟΣ 102
+==========
+
+.. figure:: ../images/102_asid.png
+      	   :scale: 70 %
+      	   :class: center
+
+ΤΥΠΟΣ 102A
+===========
+
+.. figure:: ../images/102a_asid.png
+      	   :scale: 70 %
+      	   :class: center
+
+ΤΥΠΟΣ 103
+==========
+
+.. figure:: ../images/103_asid.png
+      	   :scale: 70 %
+      	   :class: center
+
+ΤΥΠΟΣ 103A
+===========
+
+.. figure:: ../images/103a_asid.png
+      	   :scale: 70 %
+      	   :class: center
+
+ΤΥΠΟΣ 104
+==========
+
+.. figure:: ../images/104_asid.png
+      	   :scale: 70 %
+      	   :class: center
+
+ΤΥΠΟΣ 104A
+===========
+
+.. figure:: ../images/104a_asid.png
+      	   :scale: 70 %
+      	   :class: center
+
+ΤΥΠΟΣ 105
+===========
+
+.. figure:: ../images/105_asid.png
+      	   :scale: 70 %
+      	   :class: center
+
+ΤΥΠΟΣ 105A
+==============
+
+.. figure:: ../images/105a_asid.png
+      	   :scale: 70 %
+      	   :class: center
+
+ΤΥΠΟΣ 106
+===========
+
+.. figure:: ../images/106_asid.png
+      	   :scale: 70 %
+      	   :class: center
+
+ΤΥΠΟΣ 106A
+============
+
+.. figure:: ../images/106a_asid.png
+      	   :scale: 70 %
+      	   :class: center
+
+ΕΙΔΙΚΕΣ ΠΕΡΙΠΤΩΣΕΙΣ ΙΣΟΠΕΔΩΝ ΔΙΑΒΑΣΕΩΝ ΤΥΠΟΥ Ι
+************************************************
+
+
+.. figure:: ../images/type1_cases.png
+      	   :scale: 70 %
+      	   :class: center
+
+
+
+
+

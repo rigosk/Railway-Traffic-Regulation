@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,400i,700,700i|Ubuntu:300,300i,700,700i');
+
+body, h1, h2, h3, h4, h5, h6, legend {
+    font-family: /*"Ubuntu","Lato","proxima-nova","Helvetica Neue"*/,Arial,sans-serif;
+}
+body {
+    font-size: 1em; 
+    font-weight: 300;
+}
+pre, code, .rst-content tt, kbd, samp {
+    font-family: "Ubuntu Mono",Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
+    font-size: 1em;
+}
+
+code {
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    margin: 0;
+    background-color: rgba(0,0,0,0.04);
+    border-radius: 3px;
+    border: initial;
+    color: #333;
+}
+ 
+
+.wy-side-nav-search {
+    background-color: #1da1f2;
+    background-image: url(train.png);
+    background-position: bottom left;
+    background-size: contain;
+    background-size: 60%;
+    background-repeat: no-repeat;
+}
+.wy-side-nav-search input[type=text] {
+    opacity: 0.6;
+}
+
+.wy-side-nav-search>a, .wy-side-nav-search .wy-dropdown>a {
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 250%;
+    font-weight: 300;
+}
+h2 {
+    font-size: 190%;
+}
+ol.arabic>li {
+    margin-bottom: 12px;
+}
+ol.arabic.simple>li {
+    margin-bottom: 12px;
+}
+
+.center { text-align: center; }
+.right { text-align: right; }
+
+img.center {
+    display: block;
+    margin: auto;
+}
+table.center {
+    
+    
+
+    /*width:70%;*/
+    margin-left:auto; 
+    margin-right:auto;
+  }
+
+table.center td  {
+
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word;
+    white-space: pre-wrap; 
+    white-space: -moz-pre-wrap; 
+    white-space: -pre; 
+    padding: .4em .5em !important; 
+}
+
+table.center td>p  {
+    font-size: 90%;
+   
+}
+
+table.center td>div.line-block  {
+    margin-bottom: 0px;
+   
+}
+
+table.center2 td  {
+
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word;
+    white-space: pre-wrap; 
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+}
+
+table.center2 td>p  {
+    font-size: 70%;
+   
+}
+
+p.file-tree {
+	line-height: 18.3px;
+	margin-bottom: 0px;
+}
+
+.rotateimg5 {
+  display: block;
+  margin: auto;
+  -webkit-transform:rotate(-1deg);
+  -moz-transform: rotate(-1deg);
+  -ms-transform: rotate(-1deg);
+  -o-transform: rotate(-1deg);
+  transform: rotate(-1deg);
+
+}
